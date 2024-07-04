@@ -4,7 +4,7 @@
     background-image: url("image/Beer.jpg");
     background-repeat: no-repeat;
     background-size: cover;
-    height: 640px;
+    height: 700px;
     padding-right: 10%;
     padding-top: 2%;
 }
@@ -34,7 +34,7 @@ button {
     margin-top: 5%;
     background-color: brown;
 }
-
+    
 .major-body-holder {
     display: flex;
     margin-top: 7%;
@@ -65,5 +65,6 @@ img {
 }
 
 #signature {
-    margin-left: 80%;
+    margin-left: 8%;
+    margin-top: 3%;
 }
